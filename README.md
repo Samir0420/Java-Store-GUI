@@ -1,9 +1,9 @@
 # Java-Store-GUI
 
-Description:<br>
+### Description:<br>
 This Java project uses __JavaFX__, __MVC architecture__, and __GUI elements__ to create a versatile store management system. The store inventory comprises a variety of items including laptops, fridges, desktops, and toasters. Utilizing __Object-Oriented Programming__ principles, the project provides an organized and efficient structure.
 
-Key Features:
+### Key Features:
 
 __JavaFX GUI:__ Intuitive graphical user interface for a seamless user experience. <br>
 __MVC Architecture:__ A well-structured Model-View-Controller design for modularity and maintainability. <br>
